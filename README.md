@@ -2,7 +2,7 @@
 
 你目前可以参与的task列表：
 
-1. 香山开源技术文档翻译:中->英，每10行积分1分，[翻译说明](https://github.com/Xiangshan-OpenSource-DeveloperCommunity/doc_cn/blob/main/如何通过Docker使用香山.md "翻译说明")
+1. 香山开源技术文档翻译:中->英，每10行积分1分，[翻译说明](https://github.com/Xiangshan-OpenSource-DeveloperCommunity/doc_cn/blob/main/翻译说明.md "翻译说明")
 2. 香山开源社区demo本地运行:本地运行“通过docker使用香山”文档内容，上传运行完成结果到docker目录积10分，[如何通过docker使用香山](https://github.com/Xiangshan-OpenSource-DeveloperCommunity/doc_cn/blob/main/如何通过Docker使用香山.md "如何通过docker使用香山")
 3. 参与github社区讨论
 4. ...
